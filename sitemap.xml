@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://12306app.github.io/blog/2013/06/19/post-title/</loc>
+        <loc>http://iamdaiyuan.github.io/trainwebsite/blog/2013/06/19/post-title/</loc>
         <lastmod>2013-06-19T15:14:34+08:00</lastmod>
     </url>
     <url>
-        <loc>http://12306app.github.io/blog/archives/</loc>
-        <lastmod>2013-06-19T15:14:34+08:00</lastmod>
+        <loc>http://iamdaiyuan.github.io/trainwebsite/blog/2013/06/19/my-first-blog/</loc>
+        <lastmod>2013-06-19T15:26:38+08:00</lastmod>
     </url>
     <url>
-        <loc>http://12306app.github.io/</loc>
-        <lastmod>2013-06-19T15:14:34+08:00</lastmod>
+        <loc>http://iamdaiyuan.github.io/trainwebsite/blog/archives/</loc>
+        <lastmod>2013-06-19T15:26:38+08:00</lastmod>
     </url>
     <url>
-        <loc>http://12306app.github.io/robots.txt</loc>
+        <loc>http://iamdaiyuan.github.io/trainwebsite/</loc>
+        <lastmod>2013-06-19T15:26:38+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://iamdaiyuan.github.io/trainwebsite/robots.txt</loc>
         <lastmod>2013-06-19T14:59:58+08:00</lastmod>
     </url>
 </urlset>

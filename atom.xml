@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[12306订票专家]]></title>
-  <link href="http://12306app.github.io/atom.xml" rel="self"/>
-  <link href="http://12306app.github.io/"/>
-  <updated>2013-06-19T15:14:42+08:00</updated>
-  <id>http://12306app.github.io/</id>
+  <link href="http://iamdaiyuan.github.io/trainwebsite/atom.xml" rel="self"/>
+  <link href="http://iamdaiyuan.github.io/trainwebsite/"/>
+  <updated>2013-06-19T15:26:51+08:00</updated>
+  <id>http://iamdaiyuan.github.io/trainwebsite/</id>
   <author>
     <name><![CDATA[订票专家]]></name>
     
@@ -14,10 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[my first blog]]></title>
+    <link href="http://iamdaiyuan.github.io/trainwebsite/blog/2013/06/19/my-first-blog/"/>
+    <updated>2013-06-19T15:26:00+08:00</updated>
+    <id>http://iamdaiyuan.github.io/trainwebsite/blog/2013/06/19/my-first-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[post title]]></title>
-    <link href="http://12306app.github.io/blog/2013/06/19/post-title/"/>
+    <link href="http://iamdaiyuan.github.io/trainwebsite/blog/2013/06/19/post-title/"/>
     <updated>2013-06-19T15:14:00+08:00</updated>
-    <id>http://12306app.github.io/blog/2013/06/19/post-title</id>
+    <id>http://iamdaiyuan.github.io/trainwebsite/blog/2013/06/19/post-title</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

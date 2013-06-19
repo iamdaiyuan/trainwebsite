@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://12306app.github.io/sitemap.xml 
+Sitemap: http://iamdaiyuan.github.io/trainwebsite/sitemap.xml 
